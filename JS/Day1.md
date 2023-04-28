@@ -1,34 +1,34 @@
 
-#Javascript
+# Javascript
    Front end
    back end
    mobile
    desktop
    
 
-#Front end
+# Front end
    React
    Angular
    Vue
 
 
-#Backend:
+# Backend:
   Node Js
   Non relational db
 
 
-#mobile:
+# mobile:
    React Native
    Native script
 
 
-#Desktop application
+# Desktop application
    Electron
    popular application: slack 
    
    
 
-#Feature of java script
+# Feature of java script
 	 Js is an interpreted language
 	    executed without compilation
 		
@@ -37,7 +37,7 @@
 	3. single threaded
 	
 	
-#Javascript version
+# Javascript version
 ES6  (dialect)=> browser supported JS
 ES2015
 ES2016
@@ -45,7 +45,7 @@ ES2016
 ESnext ES2023
 ESNext
 
-#Datatype 
+# Datatype 
    1. number
    2. string
    3. boolean
@@ -55,7 +55,7 @@ ESNext
    7. bigint
    8. undefined
 
-##number
+## number
 let natural = 1;
 let whole = 0;
 let decimal = 1.5;
@@ -93,7 +93,7 @@ console.log('fiveLakh= '+fiveLakh);
    let backTick  = `backTick`;
 
 
-##boolean
+## boolean
    It has two value: true and false
 
    falsely value
